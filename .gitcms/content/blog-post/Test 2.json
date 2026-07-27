@@ -1,0 +1,22 @@
+{
+  "id": "Test 2",
+  "schemaId": "blog-post",
+  "data": {
+    "title": "Test 2",
+    "slug": "test-two",
+    "excerpt": "",
+    "content": "<h1>test-two test-two test-two</h1><p>test-two test-two test-two</p><p>test-two test-two test-two</p><h2>test-two test-two test-two</h2><p></p><p>test-two test-two test-two</p><p></p>",
+    "featuredImage": null,
+    "tags": [],
+    "category": "technology",
+    "published": false,
+    "publishedAt": "",
+    "author": ""
+  },
+  "metadata": {
+    "id": "Test 2",
+    "createdAt": "2026-07-27T09:10:05.085Z",
+    "updatedAt": "2026-07-27T09:10:05.085Z",
+    "status": "draft"
+  }
+}
