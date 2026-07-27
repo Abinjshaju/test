@@ -16,7 +16,8 @@
   "metadata": {
     "id": "Test 2",
     "createdAt": "2026-07-27T09:10:05.085Z",
-    "updatedAt": "2026-07-27T09:10:05.085Z",
-    "status": "draft"
+    "updatedAt": "2026-07-27T09:10:17.167Z",
+    "status": "published",
+    "publishedAt": "2026-07-27T09:10:17.167Z"
   }
 }
