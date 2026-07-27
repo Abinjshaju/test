@@ -2,22 +2,57 @@
   "id": "Test 2",
   "schemaId": "blog-post",
   "data": {
-    "title": "Test 2",
-    "slug": "test-two",
-    "excerpt": "",
-    "content": "<h1>test-two test-two test-two</h1><p>test-two test-two test-two</p><p>test-two test-two test-two</p><h2>test-two test-two test-two</h2><p></p><p>test-two test-two test-two</p><p></p>",
-    "featuredImage": null,
-    "tags": [],
+    "title": "Built from Calicut: How Tensor1 Thinks About AI and Software",
+    "slug": "built-from-calicut",
+    "excerpt": "Tensor1 is an independent engineering collective and applied AI lab taking shape across Calicut's technology ecosystem. This is how we research, build, and learn.",
+    "content": "<p>Tensor1 is taking shape on the shores of Calicut.</p>\n<p>We are an independent engineering collective and applied AI lab formed by developers working across Calicut&#39;s technology ecosystem. We are not organised around a large office, layers of management, or a catalogue of ready-made products. Tensor1 begins with a smaller idea: capable developers should be able to investigate difficult technical questions, build the systems needed to test them, and share what they learn.</p>\n<p>Calicut is more than a line in our address. It is the environment in which the collective is growing. The developers around Tensor1 bring different experiences from software engineering, product development, infrastructure, data, and artificial intelligence. Working as a collective lets those perspectives meet without forcing every problem through the structure of a conventional software company.</p>\n<h2>Why an engineering collective?</h2>\n<p>Software is often divided into separate stages. One group studies a problem, another designs a solution, another implements it, and someone else operates it. Information is lost at every boundary.</p>\n<p>We prefer a shorter loop.</p>\n<p>The people asking the technical questions should be close to the code. The people building a system should understand the assumptions behind it. When an experiment fails, the feedback should reach the original idea quickly.</p>\n<p>This does not mean one developer must know everything. It means the collective can bring together the right combination of skills for a problem while keeping communication direct. A project may involve an interface, an API, a retrieval layer, an evaluation system, and deployment infrastructure. Those pieces should be considered as one system rather than unrelated deliverables.</p>\n<h2>Software engineering comes first</h2>\n<p>Artificial intelligence does not replace software engineering. In useful systems, it depends on it.</p>\n<p>Tensor1&#39;s capabilities span full-stack web applications, mobile applications, APIs, automation, data pipelines, and infrastructure. This foundation matters because a model is rarely the complete product. It needs a reliable way to receive information, use tools, retrieve the right context, expose results, handle failures, and fit into the way people already work.</p>\n<p>Sometimes the correct solution may involve a language model. Sometimes it may be a deterministic service, a carefully designed interface, or a straightforward automation. Often it is a combination.</p>\n<p>We want the technical choice to follow the problem—not the other way around.</p>\n<h2>Where applied AI fits</h2>\n<p>Our interest in AI is centred on systems rather than isolated model demonstrations.</p>\n<p>That includes retrieval-augmented generation, agents that interact with tools, model and system evaluations, data infrastructure, and human–AI workflows. Each area raises questions that cannot be answered by looking only at a model&#39;s output.</p>\n<p>Where did the context come from? What happens when information is missing? Which actions should require approval? How does the system behave after a model or prompt changes? Can a result be traced, measured, and improved?</p>\n<p>These are software engineering questions as much as AI questions. They are also where an applied lab becomes useful: ideas can be turned into experiments, examined under realistic conditions, and developed further only when the evidence supports them.</p>\n<h2>Research through engineering</h2>\n<p>At Tensor1, research does not have to mean separating theory from implementation. Building can be part of the research method.</p>\n<p>Our working loop is simple:</p>\n<ol>\n<li>Start with a specific technical question.</li>\n<li>Study the assumptions and existing approaches around it.</li>\n<li>Build the smallest useful experiment.</li>\n<li>Evaluate its behaviour, limits, cost, and failure cases.</li>\n<li>Share what the experiment teaches us.</li>\n</ol>\n<p>Some questions may become prototypes. Some prototypes may become dependable software. Others may be discarded because the evidence is not strong enough. All three outcomes are useful when they produce clearer understanding.</p>\n<h2>Still taking shape</h2>\n<p>Tensor1 is early.</p>\n<p>We do not want to manufacture a long history, present experiments as finished products, or speak as though every interesting AI idea is already solved. The purpose of the lab is to create the conditions for careful work: independent developers, short feedback loops, working code, and enough honesty to report where an approach breaks.</p>\n<p>The writing on this journal will document that process. We will publish technical notes, experiments, practical explanations, and observations from building across AI and software engineering.</p>\n<p>Open source will be part of that direction. When an experiment produces a useful tool, reference implementation, evaluation method, or reusable component, we want other developers to be able to inspect it, question it, and build on it. Not every investigation will result in a release, but sharing working code is one of the ways we intend to keep the lab&#39;s ideas connected to evidence.</p>\n<p>Tensor1 is rooted in Calicut, but the questions we care about are not local in scope. Dependable software, useful AI, and clear technical thinking matter wherever systems are built.</p>\n<p>This is where we are starting.</p>\n\n<p><em>Header image: <a href=\"https://unsplash.com/photos/abstract-blue-and-black-horizontal-lines-with-reflections-xBi4jpuuX5U\" rel=\"noopener noreferrer\">Milad Fakurian</a> / Unsplash.</em></p>",
+    "featuredImage": {
+      "id": "media_1999671749_builtfromcalicutmiladfakurianjpg",
+      "filename": "built-from-calicut-milad-fakurian.jpg",
+      "originalName": "built-from-calicut-milad-fakurian.jpg",
+      "path": ".gitcms/media/built-from-calicut-milad-fakurian.jpg",
+      "size": 67468,
+      "mimeType": "image/jpeg",
+      "mediaType": "image",
+      "url": "https://raw.githubusercontent.com/Abinjshaju/test/main/.gitcms/media/built-from-calicut-milad-fakurian.jpg",
+      "metadata": {
+        "width": 1600,
+        "height": 900,
+        "format": "jpeg",
+        "aspectRatio": 1.7777777777777777,
+        "description": "Photograph by Milad Fakurian on Unsplash (https://unsplash.com/photos/xBi4jpuuX5U).",
+        "tags": [
+          "tensor1",
+          "editorial",
+          "technology"
+        ],
+        "alt": "Abstract blue horizontal lines fading across a dark background"
+      },
+      "uploadedAt": "2026-07-27T17:54:57.119Z",
+      "uploadedBy": "Tensor1",
+      "repository": {
+        "owner": "Abinjshaju",
+        "repo": "test"
+      }
+    },
+    "tags": [
+      "tensor1",
+      "calicut",
+      "software-engineering",
+      "open-source"
+    ],
     "category": "technology",
-    "published": false,
-    "publishedAt": "",
-    "author": ""
+    "published": true,
+    "publishedAt": "2026-07-27T17:54:57.119Z",
+    "author": "Tensor1"
   },
   "metadata": {
     "id": "Test 2",
     "createdAt": "2026-07-27T09:10:05.085Z",
-    "updatedAt": "2026-07-27T09:10:17.167Z",
+    "updatedAt": "2026-07-27T17:54:57.119Z",
     "status": "published",
-    "publishedAt": "2026-07-27T09:10:17.167Z"
+    "publishedAt": "2026-07-27T17:54:57.119Z",
+    "author": "Tensor1",
+    "slug": "built-from-calicut"
   }
 }
